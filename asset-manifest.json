@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hicircpros.github.io/landing_page/static/css/main.7ed02378.css",
-    "main.js": "/hicircpros.github.io/landing_page/static/js/main.4704af32.js",
-    "static/media/img3.jpeg": "/hicircpros.github.io/landing_page/static/media/img3.6b4d6725917a9f70ccbb.jpeg",
-    "static/media/img4.jpeg": "/hicircpros.github.io/landing_page/static/media/img4.8d841456f33380b28189.jpeg",
-    "static/media/img6.jpg": "/hicircpros.github.io/landing_page/static/media/img6.b0a095447bc6a52fcb6e.jpg",
-    "static/media/footer_img.jpg": "/hicircpros.github.io/landing_page/static/media/footer_img.0d4e35435794142b5c1e.jpg",
-    "static/media/img1.jpeg": "/hicircpros.github.io/landing_page/static/media/img1.a0acdaaa9714e42b9ab1.jpeg",
-    "static/media/img7.jpg": "/hicircpros.github.io/landing_page/static/media/img7.652db743ece579144bc0.jpg",
-    "static/media/img5.jpeg": "/hicircpros.github.io/landing_page/static/media/img5.07e289177f773c859b74.jpeg",
-    "static/media/img8.jpg": "/hicircpros.github.io/landing_page/static/media/img8.af0e2f6b7a2201de116e.jpg",
-    "static/media/logo.jpeg": "/hicircpros.github.io/landing_page/static/media/logo.e18b8f467e94df312fe3.jpeg",
-    "static/media/CG_logo.svg": "/hicircpros.github.io/landing_page/static/media/CG_logo.e2813af34e582d75ac41fd2242579731.svg",
-    "index.html": "/hicircpros.github.io/landing_page/index.html",
-    "main.7ed02378.css.map": "/hicircpros.github.io/landing_page/static/css/main.7ed02378.css.map",
-    "main.4704af32.js.map": "/hicircpros.github.io/landing_page/static/js/main.4704af32.js.map"
+    "main.css": "/landing_page/static/css/main.4c0ebd15.css",
+    "main.js": "/landing_page/static/js/main.b7f9273f.js",
+    "static/media/img3.jpeg": "/landing_page/static/media/img3.6b4d6725917a9f70ccbb.jpeg",
+    "static/media/img4.jpeg": "/landing_page/static/media/img4.8d841456f33380b28189.jpeg",
+    "static/media/img6.jpg": "/landing_page/static/media/img6.b0a095447bc6a52fcb6e.jpg",
+    "static/media/footer_img.jpg": "/landing_page/static/media/footer_img.0d4e35435794142b5c1e.jpg",
+    "static/media/img1.jpeg": "/landing_page/static/media/img1.a0acdaaa9714e42b9ab1.jpeg",
+    "static/media/img7.jpg": "/landing_page/static/media/img7.652db743ece579144bc0.jpg",
+    "static/media/img5.jpeg": "/landing_page/static/media/img5.07e289177f773c859b74.jpeg",
+    "static/media/img8.jpg": "/landing_page/static/media/img8.af0e2f6b7a2201de116e.jpg",
+    "static/media/logo.jpeg": "/landing_page/static/media/logo.e18b8f467e94df312fe3.jpeg",
+    "static/media/CG_logo.svg": "/landing_page/static/media/CG_logo.e2813af34e582d75ac41fd2242579731.svg",
+    "index.html": "/landing_page/index.html",
+    "main.4c0ebd15.css.map": "/landing_page/static/css/main.4c0ebd15.css.map",
+    "main.b7f9273f.js.map": "/landing_page/static/js/main.b7f9273f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ed02378.css",
-    "static/js/main.4704af32.js"
+    "static/css/main.4c0ebd15.css",
+    "static/js/main.b7f9273f.js"
   ]
 }
