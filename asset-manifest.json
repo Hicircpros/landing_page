@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.8a6affa6.css",
-    "main.js": "/landing_page/static/js/main.70af5fd4.js",
+    "main.css": "/landing_page/static/css/main.60afa435.css",
+    "main.js": "/landing_page/static/js/main.2ef9a6a0.js",
     "static/media/img18.jpg": "/landing_page/static/media/img18.25c76ed8ca22c1afb25f.jpg",
     "static/media/img17.jpg": "/landing_page/static/media/img17.c8eaeed0d8f4a304c2db.jpg",
+    "static/media/articleimg1.jpg": "/landing_page/static/media/articleimg1.434d323488d77a177734.jpg",
+    "static/media/wireless-tech-bg.jpg": "/landing_page/static/media/wireless-tech-bg.6fdf7b5721f391a60f50.jpg",
+    "static/media/safety-bg.jpg": "/landing_page/static/media/safety-bg.1918088b24658cef6df0.jpg",
     "static/media/img13.jpg": "/landing_page/static/media/img13.60dc46557b6af07c2d2d.jpg",
     "static/media/img3.jpeg": "/landing_page/static/media/img3.6b4d6725917a9f70ccbb.jpeg",
     "static/media/img16.jpg": "/landing_page/static/media/img16.1109bdedf717d597eee3.jpg",
@@ -22,11 +25,11 @@
     "static/media/logo.jpeg": "/landing_page/static/media/logo.e18b8f467e94df312fe3.jpeg",
     "static/media/CG_logo.svg": "/landing_page/static/media/CG_logo.e2813af34e582d75ac41fd2242579731.svg",
     "index.html": "/landing_page/index.html",
-    "main.8a6affa6.css.map": "/landing_page/static/css/main.8a6affa6.css.map",
-    "main.70af5fd4.js.map": "/landing_page/static/js/main.70af5fd4.js.map"
+    "main.60afa435.css.map": "/landing_page/static/css/main.60afa435.css.map",
+    "main.2ef9a6a0.js.map": "/landing_page/static/js/main.2ef9a6a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a6affa6.css",
-    "static/js/main.70af5fd4.js"
+    "static/css/main.60afa435.css",
+    "static/js/main.2ef9a6a0.js"
   ]
 }
